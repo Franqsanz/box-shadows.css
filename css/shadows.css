@@ -1,0 +1,115 @@
+/*
+*    CSS Box Shadows
+*         by
+*      Franqsanz
+*/
+
+.shadow-solid-right {
+  box-shadow: 8px 8px 0 0 lawngreen;
+}
+
+.shadow-solid-left {
+  box-shadow: -8px -8px 0 0 #a000fc;
+}
+
+.shadow-blur-center {
+  box-shadow: 0 0 7px 0 #cacaca;
+}
+
+.shadow-blur-left {
+  box-shadow: -10px 0 7px 0 #cacaca;
+}
+
+.shadow-blur-right {
+  box-shadow: 10px 0 7px 0 #cacaca;
+}
+
+.shadow-blur-top {
+  box-shadow: 0 -10px 7px 0 #cacaca;
+}
+
+.shadow-blur-botton {
+  box-shadow: 0 10px 7px 0 #cacaca;
+}
+
+.shadow-blur-center-inset {
+  box-shadow: inset 0 0 10px 0 #cacaca;
+}
+
+.shadow-blur-red {
+  box-shadow: 7px 7px 7px 0 #e20606;
+}
+
+.shadow-blur-15 {
+  box-shadow: 15px 15px 10px 0 #c105ab;
+}
+
+.shadow-solid-multi-colors-right-top {
+  box-shadow: 10px -10px 0 0 #ff0101, 20px -20px 0 0 #ff7301,
+    30px -30px 0 0 #7bff00, 40px -40px 0 0 #e100ff;
+}
+
+.shadow-solid-multi-colors-left-top {
+  box-shadow: -10px -10px 0 0 #ff0101, -20px -20px 0 0 #ff7301,
+    -30px -30px 0 0 #7bff00, -40px -40px 0 0 #e100ff;
+}
+
+.shadow-solid-multi-colors-right-botton {
+  box-shadow: 10px 10px 0 0 #ff0101, 20px 20px 0 0 #ff7301,
+    30px 30px 0 0 #7bff00, 40px 40px 0 0 #e100ff;
+}
+
+.shadow-solid-multi-colors-left-botton {
+  box-shadow: -10px 10px 0 0 #ff0101, -20px 20px 0 0 #ff7301,
+    -30px 30px 0 0 #7bff00, -40px 40px 0 0 #e100ff;
+}
+
+.shadow-solid-multi-colors-top {
+  box-shadow: 0 -10px 0 0 #ff0101, 0 -20px 0 0 #ff7301, 0 -30px 0 0 #7bff00,
+    0 -40px 0 0 #e100ff;
+}
+
+.shadow-solid-multi-colors-botton {
+  box-shadow: 0 10px 0 0 #ff0101, 0 20px 0 0 #ff7301, 0 30px 0 0 #7bff00,
+    0 40px 0 0 #e100ff;
+}
+
+.shadow-blur-30-top {
+  box-shadow: 0 -20px 30px #cacaca;
+}
+
+.shadow-blur-30-left {
+  box-shadow: 0 20px 30px #cacaca;
+}
+
+.shadow-blur-30-botton {
+  box-shadow: -20px 0 30px #cacaca;
+}
+
+.shadow-blur-30-right {
+  box-shadow: 20px 0 30px #cacaca;
+}
+
+.shadow-blur-40-top {
+  box-shadow: 0 -20px 40px #cacaca;
+}
+
+.shadow-blur-40-botton {
+  box-shadow: 0 20px 40px #cacaca;
+}
+
+.shadow-blur-40-left {
+  box-shadow: -20px 0 40px #cacaca;
+}
+
+.shadow-blur-40-right {
+  box-shadow: 20px 0 40px #cacaca;
+}
+
+.shadow-blur-40-center {
+  box-shadow: 0 0 40px #cacaca;
+}
+
+.shadow-blur-50-center {
+  box-shadow: 0 0 50px #cacaca;
+}
