@@ -2,12 +2,79 @@
 
 ![header](./img/header.png)
 
-Libreria `CSS` de increibles sombras.
+Librería `CSS` de sombras que puedes utilizar en tus proyectos.
 
 ### Modo de uso
+La forma de utilizar esta librería es como cualquier archivo `CSS`. Solo debes enlazarlo en el `<head>`.
 
+Ejemplo:
+
+```HTML
+<head>
+  <link rel="stylesheet" href="./shadows.css">
+</head>
+```
+
+**❗ ATENCIÓN ❗**
+> Solo hay **clases** en está librería, no puedes usar `id`.
+
+Entonces debes llamar los `class` desde las etiquetas que utilizes.
+Por ejemplo un `<div>`.
 ```HTML
 <div class="shadow-blur-30-botton"></div>
 ```
 
 ![sample1](./img/botton-30.png)
+
+### Tipos de clases disponibles
+
+* Clases con efecto `Blur`.
+* Clases con efecto `Solid`.
+* Clases con efecto `Multi Colors`.
+
+#### Clases efecto `Blur`
+Los números que contienen las clases hacen referencia a la cantidad de píxeles de `blur`.
+
+| Clases                  |
+| ----------------------- |
+| `shadow-blur-10-center` |
+| `shadow-blur-10-left`   |
+| `shadow-blur-10-right`  |
+| `shadow-blur-10-top`    |
+| `shadow-blur-10-botton` |
+| `shadow-blur-20-center` |
+| `shadow-blur-20-left`   |
+| `shadow-blur-20-right`  |
+| `shadow-blur-20-top`    |
+| `shadow-blur-20-botton` |
+| `shadow-blur-30-top`    |
+| `shadow-blur-30-left`   |
+| `shadow-blur-30-botton` |
+| `shadow-blur-30-right`  |
+| `shadow-blur-40-center` |
+| `shadow-blur-40-top`    |
+| `shadow-blur-40-left`   |
+| `shadow-blur-40-right`  |
+| `shadow-blur-40-botton` |
+| `shadow-blur-50-center` |
+| `shadow-blur-50-top`    |
+| `shadow-blur-50-left`   |
+| `shadow-blur-50-right`  |
+| `shadow-blur-50-botton` |
+
+
+#### Clases efecto `Solid`
+Los números que contienen las clases hacen referencia a la cantidad de píxeles de `Solid`.
+
+| Clases                   |
+| ------------------------ |
+| `shadow-solid-10-center` |
+| `shadow-solid-10-left`   |
+| `shadow-solid-10-right`  |
+| `shadow-solid-10-top`    |
+| `shadow-solid-10-botton` |
+| `shadow-solid-20-center` |
+| `shadow-solid-20-left`   |
+| `shadow-solid-20-right`  |
+| `shadow-solid-20-top`    |
+| `shadow-solid-20-botton` |
