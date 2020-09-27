@@ -5,6 +5,7 @@
 Librería `CSS` de sombras que puedes utilizar en tus proyectos.
 
 ### Modo de uso
+
 La forma de utilizar esta librería es como cualquier archivo `CSS`. Solo debes enlazarlo en el `<head>`.
 
 Ejemplo:
@@ -16,24 +17,29 @@ Ejemplo:
 ```
 
 **❗ ATENCIÓN ❗**
+
 > Solo hay **clases** en está librería, no puedes usar `id`.
 
 Entonces debes llamar los `class` desde las etiquetas que utilizes.
 Por ejemplo un `<div>`.
+
+### Tipos de clases disponibles
+
+- Clases con efecto `Blur`.
+- Clases con efecto `Solid`.
+- Clases con efecto `Multi Colors`.
+
+#### Clases efecto `Blur`
+
+Los números que contienen las clases hacen referencia a la cantidad de píxeles de `blur`.
+
+Ejemplo:
+
 ```HTML
 <div class="shadow-blur-30-botton"></div>
 ```
 
 ![sample1](./img/botton-30.png)
-
-### Tipos de clases disponibles
-
-* Clases con efecto `Blur`.
-* Clases con efecto `Solid`.
-* Clases con efecto `Multi Colors`.
-
-#### Clases efecto `Blur`
-Los números que contienen las clases hacen referencia a la cantidad de píxeles de `blur`.
 
 | Clases                  |
 | ----------------------- |
@@ -62,9 +68,17 @@ Los números que contienen las clases hacen referencia a la cantidad de píxeles
 | `shadow-blur-50-right`  |
 | `shadow-blur-50-botton` |
 
-
 #### Clases efecto `Solid`
+
 Los números que contienen las clases hacen referencia a la cantidad de píxeles de `Solid`.
+
+Ejemplo:
+
+```HTML
+<div class="shadow-solid-10-right"></div>
+```
+
+![sample2](./img/solid.png)
 
 | Clases                   |
 | ------------------------ |
@@ -78,3 +92,24 @@ Los números que contienen las clases hacen referencia a la cantidad de píxeles
 | `shadow-solid-20-right`  |
 | `shadow-solid-20-top`    |
 | `shadow-solid-20-botton` |
+
+#### Clases efecto `Multi Colors`
+
+Estás clases son de varias capas de sombras de colores (Experimental).
+
+Ejemplo:
+
+```HTML
+<div class="shadow-solid-multi-colors-left-botton"></div>
+```
+
+![sample2](./img/multi-colors.png)
+
+| Clases                                   |
+| ---------------------------------------- |
+| `shadow-solid-multi-colors-right-top`    |
+| `shadow-solid-multi-colors-left-top`     |
+| `shadow-solid-multi-colors-right-botton` |
+| `shadow-solid-multi-colors-left-botton`  |
+| `shadow-solid-multi-colors-top`          |
+| `shadow-solid-multi-colors-botton`       |
