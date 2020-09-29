@@ -3,6 +3,7 @@
 ![header](./img/header.png)
 
 Librería `CSS` de sombras que puedes utilizar en tus proyectos.
+**Aún en desarrollo.**
 
 ### Modo de uso
 
@@ -12,7 +13,7 @@ Ejemplo:
 
 ```HTML
 <head>
-  <link rel="stylesheet" href="./shadows.css">
+  <link rel="stylesheet" href="./shadows.min.css">
 </head>
 ```
 
@@ -22,6 +23,14 @@ Ejemplo:
 
 Entonces debes llamar los `class` desde las etiquetas que utilizes.
 Por ejemplo un `<div>`.
+
+### Color de la sombra
+
+El mismo color en distintos tipos
+
+- `#cacaca`
+- `rgb(202, 202, 202)`
+- `hsl(0, 0%, 79%)`
 
 ### Tipos de clases disponibles
 
@@ -95,7 +104,7 @@ Ejemplo:
 
 #### Clases efecto `Multi Colors`
 
-Estás clases son de varias capas de sombras de colores (Experimental).
+Estás clases contienen varias capas de sombras multi colores (Experimental).
 
 Ejemplo:
 
