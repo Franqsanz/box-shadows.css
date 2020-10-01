@@ -8,7 +8,7 @@
 
 /* 10 */
 .shadow-solid-10-center {
-  box-shadow: 0 0 0 10px  #cacaca;
+  box-shadow: 0 0 0 10px #cacaca;
 }
 
 .shadow-solid-10-top {
@@ -88,6 +88,10 @@
   box-shadow: 20px 0 20px #cacaca;
 }
 
+.shadow-blur-20-center {
+  box-shadow: 0 0 20px #cacaca;
+}
+
 /* 30 */
 .shadow-blur-30-top {
   box-shadow: 0 -30px 30px #cacaca;
@@ -103,6 +107,10 @@
 
 .shadow-blur-30-right {
   box-shadow: 30px 0 30px #cacaca;
+}
+
+.shadow-blur-30-center {
+  box-shadow: 0 0 30px #cacaca;
 }
 
 /* 40 */

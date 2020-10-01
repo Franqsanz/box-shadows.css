@@ -2,8 +2,17 @@
 
 ![header](./img/header.png)
 
-Librería `CSS` de sombras que puedes utilizar en tus proyectos.
-**Aún en desarrollo.**
+Mini librería `CSS` de sombras que puedes utilizar en tus proyectos.
+
+### Instalación
+
+Por el momento no hay una versión instalable, aún esta en desarrollo.
+
+Pero puedes clonar el repositorio.
+
+```sh
+$ git clone https://github.com/Franqsanz/css-box-shadows.git
+```
 
 ### Modo de uso
 
@@ -66,6 +75,7 @@ Ejemplo:
 | `shadow-blur-30-left`   |
 | `shadow-blur-30-botton` |
 | `shadow-blur-30-right`  |
+| `shadow-blur-30-center` |
 | `shadow-blur-40-center` |
 | `shadow-blur-40-top`    |
 | `shadow-blur-40-left`   |
@@ -104,7 +114,7 @@ Ejemplo:
 
 #### Clases efecto `Multi Colors`
 
-Estás clases contienen varias capas de sombras multi colores (Experimental).
+Estás clases contienen varias capas de sombras multi colores _(Experimental)_.
 
 Ejemplo:
 
