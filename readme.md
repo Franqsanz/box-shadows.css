@@ -132,3 +132,9 @@ Ejemplo:
 | `shadow-solid-multi-colors-left-botton`  |
 | `shadow-solid-multi-colors-top`          |
 | `shadow-solid-multi-colors-botton`       |
+
+---
+
+### Licencia
+
+[MIT](LICENSE)
