@@ -6,7 +6,8 @@ Mini librería `CSS` de sombras que puedes utilizar en tus proyectos.
 
 ### Instalación
 
-Por el momento no hay una versión instalable, aún esta en desarrollo.
+Para instalar esta mini libreria ingresa al siguiente link:
+[Descargar](https://shadows.netlify.app/)
 
 Pero puedes clonar el repositorio.
 
@@ -54,38 +55,38 @@ Los números que contienen las clases hacen referencia a la cantidad de píxeles
 Ejemplo:
 
 ```HTML
-<div class="shadow-blur-30-botton"></div>
+<div class="sw-blur-30-botton"></div>
 ```
 
 ![sample1](./img/botton-30.png)
 
 | Clases                  |
 | ----------------------- |
-| `shadow-blur-10-center` |
-| `shadow-blur-10-left`   |
-| `shadow-blur-10-right`  |
-| `shadow-blur-10-top`    |
-| `shadow-blur-10-botton` |
-| `shadow-blur-20-center` |
-| `shadow-blur-20-left`   |
-| `shadow-blur-20-right`  |
-| `shadow-blur-20-top`    |
-| `shadow-blur-20-botton` |
-| `shadow-blur-30-top`    |
-| `shadow-blur-30-left`   |
-| `shadow-blur-30-botton` |
-| `shadow-blur-30-right`  |
-| `shadow-blur-30-center` |
-| `shadow-blur-40-center` |
-| `shadow-blur-40-top`    |
-| `shadow-blur-40-left`   |
-| `shadow-blur-40-right`  |
-| `shadow-blur-40-botton` |
-| `shadow-blur-50-center` |
-| `shadow-blur-50-top`    |
-| `shadow-blur-50-left`   |
-| `shadow-blur-50-right`  |
-| `shadow-blur-50-botton` |
+| `sw-blur-10-center` |
+| `sw-blur-10-left`   |
+| `sw-blur-10-right`  |
+| `sw-blur-10-top`    |
+| `sw-blur-10-botton` |
+| `sw-blur-20-center` |
+| `sw-blur-20-left`   |
+| `sw-blur-20-right`  |
+| `sw-blur-20-top`    |
+| `sw-blur-20-botton` |
+| `sw-blur-30-top`    |
+| `sw-blur-30-left`   |
+| `sw-blur-30-botton` |
+| `sw-blur-30-right`  |
+| `sw-blur-30-center` |
+| `sw-blur-40-center` |
+| `sw-blur-40-top`    |
+| `sw-blur-40-left`   |
+| `sw-blur-40-right`  |
+| `sw-blur-40-botton` |
+| `sw-blur-50-center` |
+| `sw-blur-50-top`    |
+| `sw-blur-50-left`   |
+| `sw-blur-50-right`  |
+| `sw-blur-50-botton` |
 
 #### Clases efecto `Solid`
 
@@ -94,23 +95,23 @@ Los números que contienen las clases hacen referencia a la cantidad de píxeles
 Ejemplo:
 
 ```HTML
-<div class="shadow-solid-10-right"></div>
+<div class="sw-solid-10-right"></div>
 ```
 
 ![sample2](./img/solid.png)
 
 | Clases                   |
 | ------------------------ |
-| `shadow-solid-10-center` |
-| `shadow-solid-10-left`   |
-| `shadow-solid-10-right`  |
-| `shadow-solid-10-top`    |
-| `shadow-solid-10-botton` |
-| `shadow-solid-20-center` |
-| `shadow-solid-20-left`   |
-| `shadow-solid-20-right`  |
-| `shadow-solid-20-top`    |
-| `shadow-solid-20-botton` |
+| `sw-solid-10-center` |
+| `sw-solid-10-left`   |
+| `sw-solid-10-right`  |
+| `sw-solid-10-top`    |
+| `sw-solid-10-botton` |
+| `sw-solid-20-center` |
+| `sw-solid-20-left`   |
+| `sw-solid-20-right`  |
+| `sw-solid-20-top`    |
+| `sw-solid-20-botton` |
 
 #### Clases efecto `Multi Colors`
 
@@ -119,19 +120,19 @@ Estás clases contienen varias capas de sombras multi colores _(Experimental)_.
 Ejemplo:
 
 ```HTML
-<div class="shadow-solid-multi-colors-left-botton"></div>
+<div class="sw-solid-mlt-clr-left-botton"></div>
 ```
 
 ![sample2](./img/multi-colors.png)
 
 | Clases                                   |
 | ---------------------------------------- |
-| `shadow-solid-multi-colors-right-top`    |
-| `shadow-solid-multi-colors-left-top`     |
-| `shadow-solid-multi-colors-right-botton` |
-| `shadow-solid-multi-colors-left-botton`  |
-| `shadow-solid-multi-colors-top`          |
-| `shadow-solid-multi-colors-botton`       |
+| `sw-solid-mlt-clr-right-top`    |
+| `sw-solid-mlt-clr-left-top`     |
+| `sw-solid-mlt-clr-right-botton` |
+| `sw-solid-mlt-clr-left-botton`  |
+| `sw-solid-mlt-clr-top`          |
+| `sw-solid-mlt-clr-botton`       |
 
 ---
 

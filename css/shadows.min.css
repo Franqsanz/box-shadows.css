@@ -1,41 +1,41 @@
-.shadow-solid-10-center{box-shadow:0 0 0 10px #cacaca}
-.shadow-solid-10-top{box-shadow:0 -10px 0 0 #cacaca}
-.shadow-solid-10-right{box-shadow:10px 10px 0 0 #cacaca}
-.shadow-solid-10-left{box-shadow:-10px -10px 0 0 #cacaca}
-.shadow-solid-10-botton{box-shadow:0 10px 0 0 #cacaca}
-.shadow-solid-20-center{box-shadow:0 0 0 20px #cacaca}
-.shadow-solid-20-top{box-shadow:0 -20px 0 0 #cacaca}
-.shadow-solid-20-right{box-shadow:20px 20px 0 0 #cacaca}
-.shadow-solid-20-left{box-shadow:-20px -20px 0 0 #cacaca}
-.shadow-solid-20-botton{box-shadow:0 20px 0 0 #cacaca}
-.shadow-blur-10-center{box-shadow:0 0 10px 0 #cacaca}
-.shadow-blur-10-left{box-shadow:-10px 0 10px 0 #cacaca}
-.shadow-blur-10-right{box-shadow:10px 0 10px 0 #cacaca}
-.shadow-blur-10-top{box-shadow:0 -10px 10px 0 #cacaca}
-.shadow-blur-10-botton{box-shadow:0 10px 10px 0 #cacaca}
-.shadow-blur-20-top{box-shadow:0 -20px 20px #cacaca}
-.shadow-blur-20-left{box-shadow:0 20px 20px #cacaca}
-.shadow-blur-20-botton{box-shadow:-20px 0 20px #cacaca}
-.shadow-blur-20-right{box-shadow:20px 0 20px #cacaca}
-.shadow-blur-20-center{box-shadow:0 0 20px #cacaca}
-.shadow-blur-30-top{box-shadow:0 -30px 30px #cacaca}
-.shadow-blur-30-left{box-shadow:0 30px 30px #cacaca}
-.shadow-blur-30-botton{box-shadow:-30px 0 30px #cacaca}
-.shadow-blur-30-right{box-shadow:30px 0 30px #cacaca}
-.shadow-blur-30-center{box-shadow:0 0 30px #cacaca}
-.shadow-blur-40-top{box-shadow:0 -40px 40px #cacaca}
-.shadow-blur-40-botton{box-shadow:0 40px 40px #cacaca}
-.shadow-blur-40-left{box-shadow:-40px 0 40px #cacaca}
-.shadow-blur-40-right{box-shadow:40px 0 40px #cacaca}
-.shadow-blur-40-center{box-shadow:0 0 40px #cacaca}
-.shadow-blur-50-center{box-shadow:0 0 50px #cacaca}
-.shadow-blur-50-left{box-shadow:-50px 0 50px #cacaca}
-.shadow-blur-50-right{box-shadow:50px 0 50px #cacaca}
-.shadow-blur-50-top{box-shadow:0 -50px 50px #cacaca}
-.shadow-blur-50-botton{box-shadow:0 50px 50px #cacaca}
-.shadow-solid-multi-colors-right-top{box-shadow:10px -10px 0 0 #ff0101,20px -20px 0 0 #ff7301,30px -30px 0 0 #7bff00,40px -40px 0 0 #e100ff}
-.shadow-solid-multi-colors-left-top{box-shadow:-10px -10px 0 0 #ff0101,-20px -20px 0 0 #ff7301,-30px -30px 0 0 #7bff00,-40px -40px 0 0 #e100ff}
-.shadow-solid-multi-colors-right-botton{box-shadow:10px 10px 0 0 #ff0101,20px 20px 0 0 #ff7301,30px 30px 0 0 #7bff00,40px 40px 0 0 #e100ff}
-.shadow-solid-multi-colors-left-botton{box-shadow:-10px 10px 0 0 #ff0101,-20px 20px 0 0 #ff7301,-30px 30px 0 0 #7bff00,-40px 40px 0 0 #e100ff}
-.shadow-solid-multi-colors-top{box-shadow:0 -10px 0 0 #ff0101,0 -20px 0 0 #ff7301,0 -30px 0 0 #7bff00,0 -40px 0 0 #e100ff}
-.shadow-solid-multi-colors-botton{box-shadow:0 10px 0 0 #ff0101,0 20px 0 0 #ff7301,0 30px 0 0 #7bff00,0 40px 0 0 #e100ff}
+.sw-solid-10-center{box-shadow:0 0 0 10px #cacaca}
+.sw-solid-10-top{box-shadow:0 -10px 0 0 #cacaca}
+.sw-solid-10-right{box-shadow:10px 10px 0 0 #cacaca}
+.sw-solid-10-left{box-shadow:-10px -10px 0 0 #cacaca}
+.sw-solid-10-botton{box-shadow:0 10px 0 0 #cacaca}
+.sw-solid-20-center{box-shadow:0 0 0 20px #cacaca}
+.sw-solid-20-top{box-shadow:0 -20px 0 0 #cacaca}
+.sw-solid-20-right{box-shadow:20px 20px 0 0 #cacaca}
+.sw-solid-20-left{box-shadow:-20px -20px 0 0 #cacaca}
+.sw-solid-20-botton{box-shadow:0 20px 0 0 #cacaca}
+.sw-blur-10-center{box-shadow:0 0 10px 0 #cacaca}
+.sw-blur-10-left{box-shadow:-10px 0 10px 0 #cacaca}
+.sw-blur-10-right{box-shadow:10px 0 10px 0 #cacaca}
+.sw-blur-10-top{box-shadow:0 -10px 10px 0 #cacaca}
+.sw-blur-10-botton{box-shadow:0 10px 10px 0 #cacaca}
+.sw-blur-20-top{box-shadow:0 -20px 20px #cacaca}
+.sw-blur-20-left{box-shadow:0 20px 20px #cacaca}
+.sw-blur-20-botton{box-shadow:-20px 0 20px #cacaca}
+.sw-blur-20-right{box-shadow:20px 0 20px #cacaca}
+.sw-blur-20-center{box-shadow:0 0 20px #cacaca}
+.sw-blur-30-top{box-shadow:0 -30px 30px #cacaca}
+.sw-blur-30-left{box-shadow:0 30px 30px #cacaca}
+.sw-blur-30-botton{box-shadow:-30px 0 30px #cacaca}
+.sw-blur-30-right{box-shadow:30px 0 30px #cacaca}
+.sw-blur-30-center{box-shadow:0 0 30px #cacaca}
+.sw-blur-40-top{box-shadow:0 -40px 40px #cacaca}
+.sw-blur-40-botton{box-shadow:0 40px 40px #cacaca}
+.sw-blur-40-left{box-shadow:-40px 0 40px #cacaca}
+.sw-blur-40-right{box-shadow:40px 0 40px #cacaca}
+.sw-blur-40-center{box-shadow:0 0 40px #cacaca}
+.sw-blur-50-center{box-shadow:0 0 50px #cacaca}
+.sw-blur-50-left{box-shadow:-50px 0 50px #cacaca}
+.sw-blur-50-right{box-shadow:50px 0 50px #cacaca}
+.sw-blur-50-top{box-shadow:0 -50px 50px #cacaca}
+.sw-blur-50-botton{box-shadow:0 50px 50px #cacaca}
+.sw-solid-mlt-clr-right-top{box-shadow:10px -10px 0 0 #ff0101,20px -20px 0 0 #ff7301,30px -30px 0 0 #7bff00,40px -40px 0 0 #e100ff}
+.sw-solid-mlt-clr-left-top{box-shadow:-10px -10px 0 0 #ff0101,-20px -20px 0 0 #ff7301,-30px -30px 0 0 #7bff00,-40px -40px 0 0 #e100ff}
+.sw-solid-mlt-clr-right-botton{box-shadow:10px 10px 0 0 #ff0101,20px 20px 0 0 #ff7301,30px 30px 0 0 #7bff00,40px 40px 0 0 #e100ff}
+.sw-solid-mlt-clr-left-botton{box-shadow:-10px 10px 0 0 #ff0101,-20px 20px 0 0 #ff7301,-30px 30px 0 0 #7bff00,-40px 40px 0 0 #e100ff}
+.sw-solid-mlt-clr-top{box-shadow:0 -10px 0 0 #ff0101,0 -20px 0 0 #ff7301,0 -30px 0 0 #7bff00,0 -40px 0 0 #e100ff}
+.sw-solid-mlt-clr-botton{box-shadow:0 10px 0 0 #ff0101,0 20px 0 0 #ff7301,0 30px 0 0 #7bff00,0 40px 0 0 #e100ff}
