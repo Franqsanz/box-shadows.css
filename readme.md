@@ -5,15 +5,8 @@
 Mini librería `CSS` de sombras que puedes utilizar en tus proyectos.
 
 ### Instalación
-
-Para instalar esta mini libreria ingresa al siguiente link:
-[Descargar](https://cssshadows.netlify.app/)
-
-Pero puedes clonar el repositorio.
-
-```sh
-$ git clone https://github.com/Franqsanz/css-box-shadows.git
-```
+[Descargar](https://cssshadows.netlify.app/lib/shadows.min.css) archivo comprimido.
+[Descargar](https://cssshadows.netlify.app/lib/shadows.css) archivo descomprimido.
 
 ### Modo de uso
 
@@ -35,10 +28,7 @@ Entonces debes llamar los `class` desde las etiquetas que utilizes.
 Por ejemplo un `<div>`.
 
 ### Color de la sombra
-
-El mismo color en distintos tipos
-
-- `#cacaca`
+- `#CACACA`
 - `rgb(202, 202, 202)`
 - `hsl(0, 0%, 79%)`
 

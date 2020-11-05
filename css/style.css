@@ -3,8 +3,8 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  background: #f1f1f1;
-  color: #333333;
+  background: linear-gradient(-200deg, #ffffff, #e4e4e4, #ffc700, #04e604);
+  color: #1b1b1b;
 }
 
 header {
@@ -31,6 +31,8 @@ section {
 
 p {
   padding: 0.9rem;
+  line-height: 1.7;
+  font-size: 1.1rem;
 }
 
 li {
@@ -41,21 +43,28 @@ li {
 .aDown,
 .aSource {
   margin: 10px;
-  background: #00ff00;
+  border: 2px solid #012d46;
   color: #000000;
   border-radius: 30px;
   padding: 0.8rem;
   font-size: 1.11rem;
   font-weight: 600;
+  letter-spacing: 0.13rem;
   text-decoration: none;
   user-select: none;
   -moz-user-select: none;
   -webkit-user-select: none;
 }
 
+.aDown:active {
+  background: #012d46;
+  color: #dfdfdf;
+}
+
 .aSource {
   background: #000000;
   color: #dfdfdf;
+  border: none;
 }
 
 footer {
@@ -72,6 +81,7 @@ footer {
   .aDown,
   .aSource {
     font-size: 1rem;
+    letter-spacing: 0.1rem;
   }
 }
 
@@ -84,5 +94,6 @@ footer {
   .aDown,
   .aSource {
     margin: 0;
+    letter-spacing: 0;
   }
 }
