@@ -5,8 +5,7 @@
 Mini librería `CSS` de sombras que puedes utilizar en tus proyectos.
 
 ### Instalación
-[Descargar](https://cssshadows.netlify.app/lib/shadows.min.css) archivo comprimido.
-[Descargar](https://cssshadows.netlify.app/lib/shadows.css) archivo descomprimido.
+Visita el sitio para descargar la librería [https://cssshadows.netlify.app/](https://cssshadows.netlify.app/)
 
 ### Modo de uso
 
