@@ -1,3 +1,5 @@
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 # CSS Box Shadows
 
 ![header](./img/header.png)
