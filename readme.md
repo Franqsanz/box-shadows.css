@@ -39,16 +39,16 @@ Por ejemplo un `<div>`.
 - Clases con efecto `Solid`.
 - Clases con efecto `Multi Colors`.
 
-### Descripción de las letras:
-Estás letras hacen referencia a la posición de la sombra. Las verás en las clases que están más abajo.
+### Significado de las letras:
+Estás letras hacen referencia a la posición de la sombra. Las verás en las clases que están de ejemplo más abajo.
 
-| Letra | Descrición |
-| ----- | ---------- |
-| C     | Center     |
-| L     | Left       |
-| R     | Right      |
-| T     | Top        |
-| B     | Botton     |
+| Letra | Significado |
+| ----- | ----------- |
+| C     | Center      |
+| L     | Left        |
+| R     | Right       |
+| T     | Top         |
+| B     | Botton      |
 
 En las sombras multi colores poseen dos posiciones, por ejemplo: `left-top`, osea posicionada arriba a la izquierda.
 
