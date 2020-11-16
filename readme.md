@@ -2,7 +2,7 @@
 
 # CSS Box Shadows
 
-![header](./img/header.png)
+![header](./img/img.png)
 
 Mini librería `CSS` de sombras que puedes utilizar en tus proyectos.
 
@@ -21,9 +21,8 @@ Ejemplo:
 </head>
 ```
 
-**❗ ATENCIÓN ❗**
-
-> Solo hay **clases** en está librería, no puedes usar `id`.
+> **❗ ATENCIÓN ❗**
+ Solo hay **clases** no puedes usar `id`.
 
 Entonces debes llamar los `class` desde las etiquetas que utilizes.
 Por ejemplo un `<div>`.
@@ -39,7 +38,7 @@ Por ejemplo un `<div>`.
 - Clases con efecto `Solid`.
 - Clases con efecto `Multi Colors`.
 
-### Significado de las letras:
+### Significado de las letras
 Estás letras hacen referencia a la posición de la sombra. Las verás en las clases que están de ejemplo más abajo.
 
 | Letra | Significado |
