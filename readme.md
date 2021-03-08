@@ -21,8 +21,8 @@ Ejemplo:
 </head>
 ```
 
-> **❗ ATENCIÓN ❗**
- Solo hay **clases** no puedes usar `id`.
+**❗ ATENCIÓN ❗**
+> Solo hay **clases** no puedes usar `id`.
 
 Entonces debes llamar los `class` desde las etiquetas que utilizes.
 Por ejemplo un `<div>`.
