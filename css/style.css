@@ -3,15 +3,21 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  background: linear-gradient(-200deg, #ffffff, #e4e4e4, #ffc700, #04b304);
+  /* background: linear-gradient(-200deg, #ffffff, #e4e4e4, #ffc700, #04b304); */
   color: #1b1b1b;
 }
 
-header {
+/* header {
   padding: 5rem 0 0 0;
   text-align: center;
+} */
+
+.sFiles {
   font-style: italic;
-  font-family: serif;
+  color: #f1f1f1;
+  text-align: center;
+  padding: 5rem 0 3rem 0;
+  background: linear-gradient(180deg, rgb(0, 66, 128), #d643d6, #d643d6);
 }
 
 h1 {
@@ -19,20 +25,16 @@ h1 {
   margin: auto;
   padding: 0.7rem;
   font-size: 5rem;
-  border: 2px solid #c8c8c8;
-  box-shadow: 0 0 40px #b8b8b8;
-  border-radius: 20px;
-}
-
-section {
-  text-align: center;
-  padding: 2rem 0 8rem 0;
+  border: 2px solid #f1f1f1;
+  border-radius: 10px;
 }
 
 p {
   padding: 0.9rem;
   line-height: 1.7;
-  font-size: 1.1rem;
+  font-size: 1.125rem;
+  font-weight: 700;
+  text-align: center;
 }
 
 li {
@@ -58,18 +60,44 @@ li {
 
 .aDown:active {
   background: #012d46;
-  color: #dfdfdf;
+  color: #ececec;
 }
 
 .aSource {
   background: #000000;
-  color: #dfdfdf;
+  color: #ececec;
   border: none;
+}
+
+h2 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.contentCards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+div {
+  margin: 45px;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  border: 2px solid #eeeeee;
+  /* background: hsl(202, 97%, 14%); */
 }
 
 footer {
   padding: 2rem;
   text-align: center;
+  background: #012d46;
+  color: #f1f1f1;
+}
+
+.aMyWeb {
+  color: #ffc700;
 }
 
 @media only screen and (max-width: 425px) {
