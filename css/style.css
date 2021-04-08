@@ -7,11 +7,6 @@ body {
   color: #1b1b1b;
 }
 
-/* header {
-  padding: 5rem 0 0 0;
-  text-align: center;
-} */
-
 .sFiles {
   height: 100vh;
   display: flex;
@@ -46,6 +41,7 @@ li {
 p {
   font-size: 1.125rem;
   text-align: center;
+  margin: 0;
 }
 
 .aDown,
@@ -79,6 +75,7 @@ p {
 h2 {
   text-align: center;
   font-size: 3rem;
+  margin-bottom: 0;
 }
 
 .contentCards {
@@ -93,7 +90,6 @@ div {
   height: 300px;
   border-radius: 10px;
   border: 2px solid #eeeeee;
-  /* background: hsl(202, 97%, 14%); */
 }
 
 footer {

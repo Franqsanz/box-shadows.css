@@ -1,10 +1,10 @@
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-# CSS Box Shadows
+# BoxShadows.css
 
 ![header](./img/img.png)
 
-Mini librería `CSS` de sombras que puedes utilizar en tus proyectos.
+Mini librería `CSS` de sombras.
 
 ### Instalación
 Visita el sitio para descargar: [https://cssshadows.netlify.app/](https://cssshadows.netlify.app/)
