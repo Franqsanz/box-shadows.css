@@ -1,0 +1,21 @@
+{
+  "name": "box-shadows",
+  "version": "1.0.0",
+  "description": "Mini librería CSS de sombras.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Franco Andrés Sánchez <franqsanz.dev@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Franqsanz/box-shadows.css.git"
+  },
+  "homepage": "https://github.com/Franqsanz/box-shadows.css#readme",
+  "bugs": {
+    "url": "https://github.com/Franqsanz/box-shadows.css/issues"
+  },
+  "license": "MIT"
+}
