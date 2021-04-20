@@ -7,9 +7,26 @@
 Mini librería `CSS` de sombras.
 
 ### Instalación
-Visita el sitio para descargar: [https://cssshadows.netlify.app/](https://cssshadows.netlify.app/)
+```sh
+npm i box-shadows
+```
+O descarga el archivo desde la web: [https://cssshadows.netlify.app/](https://cssshadows.netlify.app/)
 
 ### Modo de uso
+
+**1. Ejemplo con Styled Components:**
+
+```js
+import styled from "styled-components";
+import { sw_b_20_b } from "box-shadows";
+
+const Card = styled.div`
+  width: 200px;
+  height: 200px;
+  box-shadow: ${sw_b_20_b};
+`;
+```
+**2. De forma tradicional:**
 
 La forma de utilizar esta librería es como cualquier archivo `CSS`. Solo debes enlazarlo en el `<head>`.
 
