@@ -47,7 +47,8 @@ code {
   background: #fff;
   font-size: 1.125rem;
   border-radius: 30px;
-  box-shadow: 0 3px 15px #989898
+  font-family: monospace;
+  box-shadow: 0 3px 15px #797979;
 }
 
 p {
@@ -123,7 +124,7 @@ footer {
   }
 
   small {
-    font-size: 1.125rem;
+    font-size: 1rem;
   }
 
   h2 {
