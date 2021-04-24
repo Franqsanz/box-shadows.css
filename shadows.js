@@ -21,16 +21,16 @@ module.exports = {
     0 0 0 20px #cacaca
   `,
   sw_s_20_t: `
-    0 0 0 20px #cacaca
+    0 -20px 0 0 #cacaca
   `,
   sw_s_20_r: `
-    0 0 0 20px #cacaca
+    20px 20px 0 0 #cacaca
   `,
   sw_s_20_l: `
-    0 0 0 20px #cacaca
+    -20px -20px 0 0 #cacaca
   `,
   sw_s_20_b: `
-    0 0 0 20px #cacaca
+    0 20px 0 0 #cacaca
   `,
 
   // BLUR 10
